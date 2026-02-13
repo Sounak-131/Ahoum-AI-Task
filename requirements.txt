@@ -1,0 +1,4 @@
+chromadb
+bitsandbytes==0.47.0
+torch
+transformers
