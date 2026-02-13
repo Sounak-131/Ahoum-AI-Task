@@ -1,0 +1,2051 @@
+[
+  {
+    "conversation_id": 0,
+    "conversation_text": "Hey! Let’s grab some coffee.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Seeking approval",
+        "score": 3
+      },
+      {
+        "facet": "Time outdoors/day (h)",
+        "score": 4
+      },
+      {
+        "facet": "Common-sense",
+        "score": 2
+      },
+      {
+        "facet": "Caffeine intake (mg/day)",
+        "score": 3
+      },
+      {
+        "facet": "Enthusiasm",
+        "score": 4
+      },
+      {
+        "facet": "Cordiality",
+        "score": 4
+      },
+      {
+        "facet": "Need for social interaction",
+        "score": 4
+      },
+      {
+        "facet": "Casual lifestyle",
+        "score": 3
+      },
+      {
+        "facet": "Input",
+        "score": 3
+      },
+      {
+        "facet": "Encouraging participation",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "conversation_id": 1,
+    "conversation_text": "I’m not sure this solution will work in production.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Troubleshooting technical issues",
+        "score": 4
+      },
+      {
+        "facet": "Impracticalness",
+        "score": 3
+      },
+      {
+        "facet": "Evaluating Solutions",
+        "score": 2
+      },
+      {
+        "facet": "Inefficiency",
+        "score": 1
+      },
+      {
+        "facet": "Seeking approval",
+        "score": 0
+      },
+      {
+        "facet": "Creativity in solutions",
+        "score": 0
+      },
+      {
+        "facet": "Common-sense",
+        "score": 0
+      },
+      {
+        "facet": "Harmfulness",
+        "score": 0
+      },
+      {
+        "facet": "Discontentment",
+        "score": 0
+      },
+      {
+        "facet": "Hesitation",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "conversation_id": 2,
+    "conversation_text": "Can you please send the report by tonight?",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Seeking approval",
+        "score": 3
+      },
+      {
+        "facet": "Meeting Deadlines",
+        "score": 4
+      },
+      {
+        "facet": "Feedback-giving frequency",
+        "score": 2
+      },
+      {
+        "facet": "Submission:",
+        "score": 0
+      },
+      {
+        "facet": "Input",
+        "score": 1
+      },
+      {
+        "facet": "Time outdoors/day (h)",
+        "score": 2
+      },
+      {
+        "facet": "Suspicion",
+        "score": 1
+      },
+      {
+        "facet": "Peer-collaboration hours",
+        "score": 1
+      },
+      {
+        "facet": "Inattentiveness",
+        "score": 1
+      },
+      {
+        "facet": "Commute time/day",
+        "score": 1
+      }
+    ]
+  },
+  {
+    "conversation_id": 3,
+    "conversation_text": "This update completely broke my workflow.",
+    "num_facets_scored": 5,
+    "facet_scores": [
+      {
+        "facet": "Inefficiency",
+        "score": 4
+      },
+      {
+        "facet": "Troubleshooting technical issues",
+        "score": 3
+      },
+      {
+        "facet": "Work Styles",
+        "score": 2
+      },
+      {
+        "facet": "Impracticalness",
+        "score": 1
+      },
+      {
+        "facet": "Desperation",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "conversation_id": 4,
+    "conversation_text": "Thanks a lot, that was really helpful!",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Big-heartedness",
+        "score": 4
+      },
+      {
+        "facet": "Enthusiasm",
+        "score": 3
+      },
+      {
+        "facet": "Volunteer Work",
+        "score": 2
+      },
+      {
+        "facet": "Genuine",
+        "score": 3
+      },
+      {
+        "facet": "Trust in others",
+        "score": 3
+      },
+      {
+        "facet": "Cooperation",
+        "score": 3
+      },
+      {
+        "facet": "Warmheartedness",
+        "score": 3
+      },
+      {
+        "facet": "Joyfulness",
+        "score": 3
+      },
+      {
+        "facet": "Self-Efficacy",
+        "score": 3
+      },
+      {
+        "facet": "Common-sense",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "conversation_id": 5,
+    "conversation_text": "Why would anyone design it this way?",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Desire for excellence",
+        "score": 4
+      },
+      {
+        "facet": "Desire to influence others",
+        "score": 3
+      },
+      {
+        "facet": "Common-sense",
+        "score": 2
+      },
+      {
+        "facet": "Significance: Desire to make an impact",
+        "score": 3
+      },
+      {
+        "facet": "Originality",
+        "score": 4
+      },
+      {
+        "facet": "Seeking approval",
+        "score": 2
+      },
+      {
+        "facet": "Big-heartedness",
+        "score": 3
+      },
+      {
+        "facet": "Enthusiasm",
+        "score": 4
+      },
+      {
+        "facet": "Economic reasoning",
+        "score": 2
+      },
+      {
+        "facet": "Creativity in solutions",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "conversation_id": 6,
+    "conversation_text": "I feel anxious about tomorrow’s presentation.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Fearfulness: Fear of physical dangers",
+        "score": 3
+      },
+      {
+        "facet": "Managing emotions",
+        "score": 2
+      },
+      {
+        "facet": "Perceiving",
+        "score": 4
+      },
+      {
+        "facet": "Desperation",
+        "score": 1
+      },
+      {
+        "facet": "Hesitation",
+        "score": 1
+      },
+      {
+        "facet": "Enthusiasm",
+        "score": 2
+      },
+      {
+        "facet": "Inattentiveness",
+        "score": 1
+      },
+      {
+        "facet": "Avoiding:",
+        "score": 0
+      },
+      {
+        "facet": "Suspicion",
+        "score": 1
+      },
+      {
+        "facet": "Attitude toward learning",
+        "score": 1
+      }
+    ]
+  },
+  {
+    "conversation_id": 7,
+    "conversation_text": "The system crashed again after deployment.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Troubleshooting technical issues",
+        "score": 4
+      },
+      {
+        "facet": "Inefficiency",
+        "score": 3
+      },
+      {
+        "facet": "Desperation",
+        "score": 2
+      },
+      {
+        "facet": "Inattentiveness",
+        "score": 1
+      },
+      {
+        "facet": "Sequential Memory Recall",
+        "score": 0
+      },
+      {
+        "facet": "Impracticalness",
+        "score": 0
+      },
+      {
+        "facet": "Clumsiness",
+        "score": 0
+      },
+      {
+        "facet": "Input",
+        "score": 0
+      },
+      {
+        "facet": "Cloud-backup frequency",
+        "score": 0
+      },
+      {
+        "facet": "Selfcontrol",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "conversation_id": 8,
+    "conversation_text": "Let’s take a short break and resume later.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Seeking approval",
+        "score": 3
+      },
+      {
+        "facet": "Input",
+        "score": 4
+      },
+      {
+        "facet": "Common-sense",
+        "score": 2
+      },
+      {
+        "facet": "Self-improvement",
+        "score": 3
+      },
+      {
+        "facet": "Risktaking",
+        "score": 3
+      },
+      {
+        "facet": "Inattentiveness",
+        "score": 2
+      },
+      {
+        "facet": "Avoiding:",
+        "score": 2
+      },
+      {
+        "facet": "Brevity",
+        "score": 3
+      },
+      {
+        "facet": "Troubleshooting technical issues",
+        "score": 3
+      },
+      {
+        "facet": "Peacefulness",
+        "score": 4
+      }
+    ]
+  },
+  {
+    "conversation_id": 9,
+    "conversation_text": "That joke was inappropriate for this meeting.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Disrespect",
+        "score": 4
+      },
+      {
+        "facet": "Disagreeableness",
+        "score": 3
+      },
+      {
+        "facet": "Impracticalness",
+        "score": 2
+      },
+      {
+        "facet": "Inattentiveness",
+        "score": 1
+      },
+      {
+        "facet": "Common-sense",
+        "score": 0
+      },
+      {
+        "facet": "Avoiding:",
+        "score": 0
+      },
+      {
+        "facet": "Hatefulness",
+        "score": 0
+      },
+      {
+        "facet": "Seeking approval",
+        "score": 0
+      },
+      {
+        "facet": "Unassertiveness",
+        "score": 0
+      },
+      {
+        "facet": "Harmfulness",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "conversation_id": 10,
+    "conversation_text": "I don’t understand the instructions at all.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Impracticalness",
+        "score": 3
+      },
+      {
+        "facet": "Troubleshooting technical issues",
+        "score": 4
+      },
+      {
+        "facet": "Inattentiveness",
+        "score": 2
+      },
+      {
+        "facet": "Common-sense",
+        "score": 1
+      },
+      {
+        "facet": "Inefficiency",
+        "score": 3
+      },
+      {
+        "facet": "Seeking approval",
+        "score": 4
+      },
+      {
+        "facet": "Input",
+        "score": 1
+      },
+      {
+        "facet": "Disrespect",
+        "score": 4
+      },
+      {
+        "facet": "Desperation",
+        "score": 3
+      },
+      {
+        "facet": "Discontentment",
+        "score": 4
+      }
+    ]
+  },
+  {
+    "conversation_id": 11,
+    "conversation_text": "Everything looks fine from my side.",
+    "num_facets_scored": 9,
+    "facet_scores": [
+      {
+        "facet": "Enthusiasm",
+        "score": 4
+      },
+      {
+        "facet": "Self Perspective",
+        "score": 3
+      },
+      {
+        "facet": "Orderliness",
+        "score": 2
+      },
+      {
+        "facet": "Flawlessness",
+        "score": 3
+      },
+      {
+        "facet": "Peacefulness",
+        "score": 4
+      },
+      {
+        "facet": "Common-sense",
+        "score": 3
+      },
+      {
+        "facet": "Seeking approval",
+        "score": 3
+      },
+      {
+        "facet": "Joyfulness",
+        "score": 4
+      },
+      {
+        "facet": "General Mood and Attitude",
+        "score": 4
+      }
+    ]
+  },
+  {
+    "conversation_id": 12,
+    "conversation_text": "Please stop spamming this channel.",
+    "num_facets_scored": 5,
+    "facet_scores": [
+      {
+        "facet": "Avoiding:",
+        "score": 4
+      },
+      {
+        "facet": "Common-sense",
+        "score": 3
+      },
+      {
+        "facet": "Encouraging participation",
+        "score": 2
+      },
+      {
+        "facet": "Input",
+        "score": 1
+      },
+      {
+        "facet": "Seeking approval",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "conversation_id": 13,
+    "conversation_text": "I’m excited to start this new project.",
+    "num_facets_scored": 9,
+    "facet_scores": [
+      {
+        "facet": "Enthusiasm",
+        "score": 4
+      },
+      {
+        "facet": "Risktaking",
+        "score": 3
+      },
+      {
+        "facet": "Seeking approval",
+        "score": 2
+      },
+      {
+        "facet": "Encouraging participation",
+        "score": 3
+      },
+      {
+        "facet": "Volunteer Work",
+        "score": 0
+      },
+      {
+        "facet": "Self-improvement",
+        "score": 3
+      },
+      {
+        "facet": "Desire to influence others",
+        "score": 4
+      },
+      {
+        "facet": "Trust in others",
+        "score": 3
+      },
+      {
+        "facet": "Significance: Desire to make an impact",
+        "score": 4
+      }
+    ]
+  },
+  {
+    "conversation_id": 14,
+    "conversation_text": "This feature might cause serious security issues.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Troubleshooting technical issues",
+        "score": 4
+      },
+      {
+        "facet": "Fearfulness: Fear of physical dangers",
+        "score": 3
+      },
+      {
+        "facet": "Suspicion",
+        "score": 2
+      },
+      {
+        "facet": "Harmfulness",
+        "score": 1
+      },
+      {
+        "facet": "Mysteriousness",
+        "score": 1
+      },
+      {
+        "facet": "Inattentiveness",
+        "score": 1
+      },
+      {
+        "facet": "Avoiding:",
+        "score": 0
+      },
+      {
+        "facet": "Home-security-system presence",
+        "score": 0
+      },
+      {
+        "facet": "Risktaking",
+        "score": 0
+      },
+      {
+        "facet": "Impracticalness",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "conversation_id": 15,
+    "conversation_text": "Could you clarify what you meant earlier?",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Hesitation",
+        "score": 3
+      },
+      {
+        "facet": "Common-sense",
+        "score": 4
+      },
+      {
+        "facet": "Seeking approval",
+        "score": 2
+      },
+      {
+        "facet": "Input",
+        "score": 3
+      },
+      {
+        "facet": "Avoiding:",
+        "score": 2
+      },
+      {
+        "facet": "Disagreeableness",
+        "score": 3
+      },
+      {
+        "facet": "Perceiving",
+        "score": 3
+      },
+      {
+        "facet": "Spelling Accuracy",
+        "score": 3
+      },
+      {
+        "facet": "Mysteriousness",
+        "score": 3
+      },
+      {
+        "facet": "Brevity",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "conversation_id": 16,
+    "conversation_text": "The deadline feels unrealistic.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Meeting Deadlines",
+        "score": 3
+      },
+      {
+        "facet": "Impracticalness",
+        "score": 2
+      },
+      {
+        "facet": "Desperation",
+        "score": 4
+      },
+      {
+        "facet": "Discontentment",
+        "score": 2
+      },
+      {
+        "facet": "Avoiding:",
+        "score": 0
+      },
+      {
+        "facet": "Seeking approval",
+        "score": 0
+      },
+      {
+        "facet": "Disagreeableness",
+        "score": 0
+      },
+      {
+        "facet": "Clumsiness",
+        "score": 0
+      },
+      {
+        "facet": "Unassertiveness",
+        "score": 0
+      },
+      {
+        "facet": "Mysteriousness",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "conversation_id": 17,
+    "conversation_text": "Sure, I can help you with that.",
+    "num_facets_scored": 0,
+    "facet_scores": []
+  },
+  {
+    "conversation_id": 18,
+    "conversation_text": "This doesn’t make any logical sense.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Common-sense",
+        "score": 3
+      },
+      {
+        "facet": "Impracticalness",
+        "score": 4
+      },
+      {
+        "facet": "Desperation",
+        "score": 2
+      },
+      {
+        "facet": "Disrespect",
+        "score": 3
+      },
+      {
+        "facet": "Critical reasoning",
+        "score": 1
+      },
+      {
+        "facet": "Economic reasoning",
+        "score": 1
+      },
+      {
+        "facet": "Suspicion",
+        "score": 2
+      },
+      {
+        "facet": "Clumsiness",
+        "score": 4
+      },
+      {
+        "facet": "Inattentiveness",
+        "score": 2
+      },
+      {
+        "facet": "Inefficiency",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "conversation_id": 19,
+    "conversation_text": "I appreciate your patience.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Perseverance",
+        "score": 4
+      },
+      {
+        "facet": "Patience: Resistance to anger",
+        "score": 3
+      },
+      {
+        "facet": "Enthusiasm",
+        "score": 2
+      },
+      {
+        "facet": "Compassion",
+        "score": 1
+      },
+      {
+        "facet": "Big-heartedness",
+        "score": 0
+      },
+      {
+        "facet": "Determinedness",
+        "score": 0
+      },
+      {
+        "facet": "Warmheartedness",
+        "score": 0
+      },
+      {
+        "facet": "Cordiality",
+        "score": 0
+      },
+      {
+        "facet": "Character strength: Perseverance",
+        "score": 0
+      },
+      {
+        "facet": "Courageousness",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "conversation_id": 20,
+    "conversation_text": "We need to rethink the entire approach.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Evaluating Solutions",
+        "score": 4
+      },
+      {
+        "facet": "Common-sense",
+        "score": 2
+      },
+      {
+        "facet": "Self Perspective",
+        "score": 3
+      },
+      {
+        "facet": "Seeking approval",
+        "score": 1
+      },
+      {
+        "facet": "Critical reasoning",
+        "score": 2
+      },
+      {
+        "facet": "Impracticalness",
+        "score": 3
+      },
+      {
+        "facet": "Attitude toward learning",
+        "score": 2
+      },
+      {
+        "facet": "Need for social interaction",
+        "score": 1
+      },
+      {
+        "facet": "Inattentiveness",
+        "score": 3
+      },
+      {
+        "facet": "Withdrawnness",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "conversation_id": 21,
+    "conversation_text": "I’m feeling a bit overwhelmed right now.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Managing emotions",
+        "score": 3
+      },
+      {
+        "facet": "Enthusiasm",
+        "score": 4
+      },
+      {
+        "facet": "Perceiving",
+        "score": 2
+      },
+      {
+        "facet": "Seeking approval",
+        "score": 4
+      },
+      {
+        "facet": "Desperation",
+        "score": 5
+      },
+      {
+        "facet": "Desire to influence others",
+        "score": 4
+      },
+      {
+        "facet": "Control over situations",
+        "score": 3
+      },
+      {
+        "facet": "Overprotectiveness",
+        "score": 4
+      },
+      {
+        "facet": "High-spiritedness",
+        "score": 4
+      },
+      {
+        "facet": "Quirkiness",
+        "score": 4
+      }
+    ]
+  },
+  {
+    "conversation_id": 22,
+    "conversation_text": "That answer was technically correct but misleading.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Common-sense",
+        "score": 3
+      },
+      {
+        "facet": "Numerical Reasoning:",
+        "score": 2
+      },
+      {
+        "facet": "Statistical Reasoning",
+        "score": 4
+      },
+      {
+        "facet": "Impracticalness",
+        "score": 2
+      },
+      {
+        "facet": "Troubleshooting technical issues",
+        "score": 3
+      },
+      {
+        "facet": "Disagreeableness",
+        "score": 2
+      },
+      {
+        "facet": "Spelling Accuracy",
+        "score": 2
+      },
+      {
+        "facet": "Critical reasoning",
+        "score": 2
+      },
+      {
+        "facet": "Economic reasoning",
+        "score": 2
+      },
+      {
+        "facet": "Harmfulness",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "conversation_id": 23,
+    "conversation_text": "Let’s vote on this and move forward.",
+    "num_facets_scored": 9,
+    "facet_scores": [
+      {
+        "facet": "Seeking approval",
+        "score": 4
+      },
+      {
+        "facet": "Common-sense",
+        "score": 3
+      },
+      {
+        "facet": "Input",
+        "score": 2
+      },
+      {
+        "facet": "Encouraging participation",
+        "score": 3
+      },
+      {
+        "facet": "Evaluating Solutions",
+        "score": 3
+      },
+      {
+        "facet": "Trust in others",
+        "score": 3
+      },
+      {
+        "facet": "Enthusiasm",
+        "score": 3
+      },
+      {
+        "facet": "Submission:",
+        "score": 3
+      },
+      {
+        "facet": "Decision-Making Confidence",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "conversation_id": 24,
+    "conversation_text": "I strongly disagree with that decision.",
+    "num_facets_scored": 5,
+    "facet_scores": [
+      {
+        "facet": "Disagreeableness",
+        "score": 4
+      },
+      {
+        "facet": "Discontentment",
+        "score": 3
+      },
+      {
+        "facet": "Impracticalness",
+        "score": 2
+      },
+      {
+        "facet": "Disrespect",
+        "score": 1
+      },
+      {
+        "facet": "Avoiding:",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "conversation_id": 25,
+    "conversation_text": "Everything is under control.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Control over situations",
+        "score": 4
+      },
+      {
+        "facet": "Selfcontrol",
+        "score": 3
+      },
+      {
+        "facet": "Enthusiasm",
+        "score": 2
+      },
+      {
+        "facet": "Orderliness",
+        "score": 1
+      },
+      {
+        "facet": "Flawlessness",
+        "score": 0
+      },
+      {
+        "facet": "Controlling Reactions",
+        "score": 0
+      },
+      {
+        "facet": "Peacefulness",
+        "score": 0
+      },
+      {
+        "facet": "Managing emotions",
+        "score": 0
+      },
+      {
+        "facet": "Meeting Deadlines",
+        "score": 0
+      },
+      {
+        "facet": "Common-sense",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "conversation_id": 26,
+    "conversation_text": "This task is boring but necessary.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Need for social interaction",
+        "score": 3
+      },
+      {
+        "facet": "Avoiding:",
+        "score": 2
+      },
+      {
+        "facet": "Impracticalness",
+        "score": 4
+      },
+      {
+        "facet": "Common-sense",
+        "score": 3
+      },
+      {
+        "facet": "Inattentiveness",
+        "score": 2
+      },
+      {
+        "facet": "Desperation",
+        "score": 2
+      },
+      {
+        "facet": "Clumsiness",
+        "score": 2
+      },
+      {
+        "facet": "Volunteer Work",
+        "score": 2
+      },
+      {
+        "facet": "Inefficiency",
+        "score": 2
+      },
+      {
+        "facet": "Seeking approval",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "conversation_id": 27,
+    "conversation_text": "Can we postpone this discussion?",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Seeking approval",
+        "score": 4
+      },
+      {
+        "facet": "Avoiding:",
+        "score": 3
+      },
+      {
+        "facet": "Hesitation",
+        "score": 2
+      },
+      {
+        "facet": "Suspicion",
+        "score": 1
+      },
+      {
+        "facet": "Disagreeableness",
+        "score": 0
+      },
+      {
+        "facet": "Meeting Deadlines",
+        "score": 0
+      },
+      {
+        "facet": "Talkativeness",
+        "score": 0
+      },
+      {
+        "facet": "Disrespect",
+        "score": 0
+      },
+      {
+        "facet": "Inattentiveness",
+        "score": 0
+      },
+      {
+        "facet": "Troubleshooting technical issues",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "conversation_id": 28,
+    "conversation_text": "The results exceeded my expectations.",
+    "num_facets_scored": 9,
+    "facet_scores": [
+      {
+        "facet": "Enthusiasm",
+        "score": 4
+      },
+      {
+        "facet": "Desire for excellence",
+        "score": 3
+      },
+      {
+        "facet": "Decision-Making Confidence",
+        "score": 2
+      },
+      {
+        "facet": "Meeting Deadlines",
+        "score": 3
+      },
+      {
+        "facet": "Anticipativeness",
+        "score": 3
+      },
+      {
+        "facet": "Trust in others",
+        "score": 3
+      },
+      {
+        "facet": "Perseverance",
+        "score": 3
+      },
+      {
+        "facet": "Determinedness",
+        "score": 3
+      },
+      {
+        "facet": "Achievement Motivation:",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "conversation_id": 29,
+    "conversation_text": "I don’t think this is safe to release.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Avoiding:",
+        "score": 3
+      },
+      {
+        "facet": "Impracticalness",
+        "score": 4
+      },
+      {
+        "facet": "Harmfulness",
+        "score": 2
+      },
+      {
+        "facet": "Seeking approval",
+        "score": 0
+      },
+      {
+        "facet": "Fearfulness: Fear of physical dangers",
+        "score": 1
+      },
+      {
+        "facet": "Suspicion",
+        "score": 1
+      },
+      {
+        "facet": "Disrespect",
+        "score": 0
+      },
+      {
+        "facet": "Risktaking",
+        "score": 0
+      },
+      {
+        "facet": "Disagreeableness",
+        "score": 0
+      },
+      {
+        "facet": "Physical-violence exposure",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "conversation_id": 30,
+    "conversation_text": "Nice work on the implementation!",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Creativity in solutions",
+        "score": 4
+      },
+      {
+        "facet": "Evaluating Solutions",
+        "score": 3
+      },
+      {
+        "facet": "Self-improvement",
+        "score": 2
+      },
+      {
+        "facet": "Open-source contributions",
+        "score": 3
+      },
+      {
+        "facet": "Collaboration",
+        "score": 4
+      },
+      {
+        "facet": "Encouraging participation",
+        "score": 4
+      },
+      {
+        "facet": "Input",
+        "score": 3
+      },
+      {
+        "facet": "Meeting Deadlines",
+        "score": 4
+      },
+      {
+        "facet": "Hardworking",
+        "score": 4
+      },
+      {
+        "facet": "Enthusiasm",
+        "score": 4
+      }
+    ]
+  },
+  {
+    "conversation_id": 31,
+    "conversation_text": "Why wasn’t this tested earlier?",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Seeking approval",
+        "score": 3
+      },
+      {
+        "facet": "Hesitation",
+        "score": 2
+      },
+      {
+        "facet": "Impracticalness",
+        "score": 4
+      },
+      {
+        "facet": "Inefficiency",
+        "score": 2
+      },
+      {
+        "facet": "Suspicion",
+        "score": 3
+      },
+      {
+        "facet": "Mysteriousness",
+        "score": 2
+      },
+      {
+        "facet": "Avoiding:",
+        "score": 0
+      },
+      {
+        "facet": "Anticipativeness",
+        "score": 2
+      },
+      {
+        "facet": "Evaluating Solutions",
+        "score": 2
+      },
+      {
+        "facet": "Inattentiveness",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "conversation_id": 32,
+    "conversation_text": "I feel confident about the exam.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Decision-Making Confidence",
+        "score": 4
+      },
+      {
+        "facet": "SelfEsteem",
+        "score": 3
+      },
+      {
+        "facet": "Enthusiasm",
+        "score": 2
+      },
+      {
+        "facet": "Trust in others",
+        "score": 3
+      },
+      {
+        "facet": "Self-improvement",
+        "score": 3
+      },
+      {
+        "facet": "Attitude toward learning",
+        "score": 3
+      },
+      {
+        "facet": "Self-Efficacy",
+        "score": 3
+      },
+      {
+        "facet": "General Mood and Attitude",
+        "score": 3
+      },
+      {
+        "facet": "Risktaking",
+        "score": 3
+      },
+      {
+        "facet": "Perceiving",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "conversation_id": 33,
+    "conversation_text": "This violates company policy.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Disrespect",
+        "score": 3
+      },
+      {
+        "facet": "Dishonesty",
+        "score": 2
+      },
+      {
+        "facet": "Avoiding:",
+        "score": 4
+      },
+      {
+        "facet": "Harmfulness",
+        "score": 1
+      },
+      {
+        "facet": "Overprotectiveness",
+        "score": 2
+      },
+      {
+        "facet": "Inattentiveness",
+        "score": 3
+      },
+      {
+        "facet": "Hatefulness",
+        "score": 1
+      },
+      {
+        "facet": "Seeking approval",
+        "score": 2
+      },
+      {
+        "facet": "Suspicion",
+        "score": 2
+      },
+      {
+        "facet": "Inefficiency",
+        "score": 1
+      }
+    ]
+  },
+  {
+    "conversation_id": 34,
+    "conversation_text": "We should document this properly.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Seeking approval",
+        "score": 4
+      },
+      {
+        "facet": "Common-sense",
+        "score": 3
+      },
+      {
+        "facet": "Encouraging participation",
+        "score": 2
+      },
+      {
+        "facet": "Input",
+        "score": 1
+      },
+      {
+        "facet": "Meeting Deadlines",
+        "score": 0
+      },
+      {
+        "facet": "Spelling Accuracy",
+        "score": 0
+      },
+      {
+        "facet": "Genuine",
+        "score": 0
+      },
+      {
+        "facet": "Critical reasoning",
+        "score": 0
+      },
+      {
+        "facet": "Outspokenness",
+        "score": 0
+      },
+      {
+        "facet": "Submission:",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "conversation_id": 35,
+    "conversation_text": "I’m confused by the latest changes.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Seeking approval",
+        "score": 3
+      },
+      {
+        "facet": "Mysteriousness",
+        "score": 2
+      },
+      {
+        "facet": "Hesitation",
+        "score": 4
+      },
+      {
+        "facet": "Suspicion",
+        "score": 3
+      },
+      {
+        "facet": "Quirkiness",
+        "score": 2
+      },
+      {
+        "facet": "Discontentment",
+        "score": 2
+      },
+      {
+        "facet": "Disagreeableness",
+        "score": 3
+      },
+      {
+        "facet": "Common-sense",
+        "score": 4
+      },
+      {
+        "facet": "Meeting Deadlines",
+        "score": 3
+      },
+      {
+        "facet": "Troubleshooting technical issues",
+        "score": 4
+      }
+    ]
+  },
+  {
+    "conversation_id": 36,
+    "conversation_text": "That sounds like a great idea.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Big-heartedness",
+        "score": 4
+      },
+      {
+        "facet": "Ideas generated/day",
+        "score": 3
+      },
+      {
+        "facet": "Enthusiasm",
+        "score": 2
+      },
+      {
+        "facet": "Seeking approval",
+        "score": 1
+      },
+      {
+        "facet": "Common-sense",
+        "score": 5
+      },
+      {
+        "facet": "Suspicion",
+        "score": 4
+      },
+      {
+        "facet": "Encouraging participation",
+        "score": 5
+      },
+      {
+        "facet": "Evaluating Solutions",
+        "score": 5
+      },
+      {
+        "facet": "Input",
+        "score": 5
+      },
+      {
+        "facet": "Creativity in solutions",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "conversation_id": 37,
+    "conversation_text": "Please do not share this information.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Avoiding:",
+        "score": 3
+      },
+      {
+        "facet": "Disrespect",
+        "score": 4
+      },
+      {
+        "facet": "Suspicion",
+        "score": 2
+      },
+      {
+        "facet": "Dishonesty",
+        "score": 3
+      },
+      {
+        "facet": "Common-sense",
+        "score": 4
+      },
+      {
+        "facet": "Data-sharing consent level",
+        "score": 3
+      },
+      {
+        "facet": "Discreteness",
+        "score": 4
+      },
+      {
+        "facet": "Inattentiveness",
+        "score": 3
+      },
+      {
+        "facet": "Trust in others",
+        "score": 4
+      },
+      {
+        "facet": "Input",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "conversation_id": 38,
+    "conversation_text": "I regret agreeing to this.",
+    "num_facets_scored": 5,
+    "facet_scores": [
+      {
+        "facet": "Seeking approval",
+        "score": 4
+      },
+      {
+        "facet": "Discontentment",
+        "score": 3
+      },
+      {
+        "facet": "Avoiding:",
+        "score": 2
+      },
+      {
+        "facet": "Disrespect",
+        "score": 1
+      },
+      {
+        "facet": "Perceiving",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "conversation_id": 39,
+    "conversation_text": "Let’s keep the discussion professional.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Common-sense",
+        "score": 4
+      },
+      {
+        "facet": "Seeking approval",
+        "score": 3
+      },
+      {
+        "facet": "Civility",
+        "score": 2
+      },
+      {
+        "facet": "Talkativeness",
+        "score": 4
+      },
+      {
+        "facet": "Outspokenness",
+        "score": 3
+      },
+      {
+        "facet": "Cordiality",
+        "score": 4
+      },
+      {
+        "facet": "Impartial-mindedness",
+        "score": 3
+      },
+      {
+        "facet": "Encouraging participation",
+        "score": 4
+      },
+      {
+        "facet": "Troubleshooting technical issues",
+        "score": 3
+      },
+      {
+        "facet": "Trust in others",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "conversation_id": 40,
+    "conversation_text": "Turn 1: Hey, are you free later today?  Turn 2: I wanted to discuss the project roadmap.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Seeking approval",
+        "score": 3
+      },
+      {
+        "facet": "Time outdoors/day (h)",
+        "score": 4
+      },
+      {
+        "facet": "Feedback-giving frequency",
+        "score": 0
+      },
+      {
+        "facet": "Meeting Deadlines",
+        "score": 3
+      },
+      {
+        "facet": "Input",
+        "score": 0
+      },
+      {
+        "facet": "Enthusiasm",
+        "score": 3
+      },
+      {
+        "facet": "Volunteer Work",
+        "score": 0
+      },
+      {
+        "facet": "Hesitation",
+        "score": 0
+      },
+      {
+        "facet": "Ideas generated/day",
+        "score": 0
+      },
+      {
+        "facet": "Commute time/day",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "conversation_id": 41,
+    "conversation_text": "Turn 1: The server went down again. Turn 2: We need a permanent fix, not a patch.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Troubleshooting technical issues",
+        "score": 4
+      },
+      {
+        "facet": "Persistence:",
+        "score": 3
+      },
+      {
+        "facet": "Inefficiency",
+        "score": 2
+      },
+      {
+        "facet": "Inattentiveness",
+        "score": 1
+      },
+      {
+        "facet": "Input",
+        "score": 1
+      },
+      {
+        "facet": "Cloud-backup frequency",
+        "score": 1
+      },
+      {
+        "facet": "Feedback-giving frequency",
+        "score": 1
+      },
+      {
+        "facet": "Common-sense",
+        "score": 1
+      },
+      {
+        "facet": "Discontentment",
+        "score": 1
+      },
+      {
+        "facet": "Need for social interaction",
+        "score": 1
+      }
+    ]
+  },
+  {
+    "conversation_id": 42,
+    "conversation_text": "Turn 1: Can you review my code? Turn 2: I’m worried I missed something important.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Troubleshooting technical issues",
+        "score": 3
+      },
+      {
+        "facet": "Inattentiveness",
+        "score": 4
+      },
+      {
+        "facet": "Input",
+        "score": 0
+      },
+      {
+        "facet": "Suspicion",
+        "score": 0
+      },
+      {
+        "facet": "Hesitation",
+        "score": 0
+      },
+      {
+        "facet": "Seeking approval",
+        "score": 0
+      },
+      {
+        "facet": "Mysteriousness",
+        "score": 0
+      },
+      {
+        "facet": "Quirkiness",
+        "score": 0
+      },
+      {
+        "facet": "Avoiding:",
+        "score": 0
+      },
+      {
+        "facet": "Feedback-giving frequency",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "conversation_id": 43,
+    "conversation_text": "Turn 1: Why was my request rejected? Turn 2: I followed all the guidelines.",
+    "num_facets_scored": 0,
+    "facet_scores": []
+  },
+  {
+    "conversation_id": 44,
+    "conversation_text": "Turn 1: This feature feels risky. Turn 2: Let’s run additional tests before release.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Risktaking",
+        "score": 4
+      },
+      {
+        "facet": "Seeking approval",
+        "score": 3
+      },
+      {
+        "facet": "Troubleshooting technical issues",
+        "score": 2
+      },
+      {
+        "facet": "Avoiding:",
+        "score": 0
+      },
+      {
+        "facet": "Hesitation",
+        "score": 0
+      },
+      {
+        "facet": "Impulsivity",
+        "score": 0
+      },
+      {
+        "facet": "Harmfulness",
+        "score": 0
+      },
+      {
+        "facet": "Suspicion",
+        "score": 0
+      },
+      {
+        "facet": "Impracticalness",
+        "score": 0
+      },
+      {
+        "facet": "Evaluating Solutions",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "conversation_id": 45,
+    "conversation_text": "Turn 1: I don’t agree with this approach. Turn 2: But I’m open to discussing alternatives.",
+    "num_facets_scored": 0,
+    "facet_scores": []
+  },
+  {
+    "conversation_id": 46,
+    "conversation_text": "Turn 1: Are we still meeting at 4? Turn 2: I might be running late.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Meeting Deadlines",
+        "score": 3
+      },
+      {
+        "facet": "Hesitation",
+        "score": 2
+      },
+      {
+        "facet": "Avoiding:",
+        "score": 0
+      },
+      {
+        "facet": "Time outdoors/day (h)",
+        "score": 0
+      },
+      {
+        "facet": "Suspicion",
+        "score": 0
+      },
+      {
+        "facet": "Inattentiveness",
+        "score": 0
+      },
+      {
+        "facet": "Commute time/day",
+        "score": 0
+      },
+      {
+        "facet": "Quirkiness",
+        "score": 0
+      },
+      {
+        "facet": "Competition",
+        "score": 0
+      },
+      {
+        "facet": "Input",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "conversation_id": 47,
+    "conversation_text": "Turn 1: The feedback wasn’t very encouraging. Turn 2: Still, I’ll try to improve.",
+    "num_facets_scored": 0,
+    "facet_scores": []
+  },
+  {
+    "conversation_id": 48,
+    "conversation_text": "Turn 1: Please don’t deploy yet. Turn 2: There’s a critical bug we missed.",
+    "num_facets_scored": 10,
+    "facet_scores": [
+      {
+        "facet": "Troubleshooting technical issues",
+        "score": 4
+      },
+      {
+        "facet": "Avoiding:",
+        "score": 3
+      },
+      {
+        "facet": "Inattentiveness",
+        "score": 2
+      },
+      {
+        "facet": "Input",
+        "score": 1
+      },
+      {
+        "facet": "Inefficiency",
+        "score": 1
+      },
+      {
+        "facet": "Hesitation",
+        "score": 1
+      },
+      {
+        "facet": "Seeking approval",
+        "score": 1
+      },
+      {
+        "facet": "Impracticalness",
+        "score": 1
+      },
+      {
+        "facet": "Discreteness",
+        "score": 1
+      },
+      {
+        "facet": "Impulsivity",
+        "score": 1
+      }
+    ]
+  },
+  {
+    "conversation_id": 49,
+    "conversation_text": "Turn 1: I think we did a great job. Turn 2: The client seemed really satisfied.",
+    "num_facets_scored": 0,
+    "facet_scores": []
+  }
+]
