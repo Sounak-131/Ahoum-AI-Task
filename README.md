@@ -1,4 +1,9 @@
 # Ahoum-AI-Task
+
+### Note: The given .ipynb Notebook may not fully render and display it on notebook, so it is recommended to download the .ipynb file and view it in jupyter notebook or google colab
+
+### If problem still persists, you can view it directly [here](https://colab.research.google.com/drive/1heYl2AnRqkQSv9rlHt9LBgMuuxtNBTcv?usp=sharing)
+
 ## 1. Problem Statement Description
 
 The goal of this assignment is to design a production-ready conversation evaluation benchmark that scores each conversation turn across a large number of distinct evaluation facets. These facets span multiple dimensions including:
