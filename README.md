@@ -376,3 +376,101 @@ Planned improvements include:
 ## Final Note
 
 This repository demonstrates that sparse, retrieval-driven evaluation is more robust and scalable than brute-force scoring, making it suitable for real-world conversational AI benchmarking.
+
+# FAQs (Frequently Asked Questions)
+
+## Q1. The overall output doesn’t always make sense. Some facet scores don’t seem consistent with the conversation. Why?
+
+This behavior can occur due to the stochastic nature of large language models used for scoring.
+
+In this implementation, the Mistral-7B model was initialized with a very low temperature (0.0) to enforce deterministic behavior. While this improves reproducibility, it can sometimes lead to overly rigid or less nuanced scoring.
+
+**Suggested mitigation:**
+
+* Try increasing the temperature slightly (e.g., 0.01–0.1) to allow limited variability.
+
+* This often improves semantic alignment between the conversation and assigned facet scores while maintaining stability.
+
+Additionally, note that:
+
+* Facets are retrieved via semantic similarity
+
+* Scores reflect model interpretation, not ground-truth labels
+
+## Q2. Some conversations in the final JSON file have zero facets scored, even though the conversation is valid. Why does this happen?
+
+This can occur due to **generation** or **parsing issues**, rather than a flaw in the retrieval architecture.
+
+Common reasons include:
+
+* The model generating extra explanatory text instead of clean numeric output.
+
+* Partial or malformed outputs due to heavy quantization.
+
+* Limited GPU memory on free-tier environments.
+
+What to try:
+
+* Slightly increase temperature (0.01–0.1)
+
+* Reduce ```max_new_tokens```
+
+* Ensure robust parsing logic is applied (regex-based extraction)
+
+* Rerun on a stable GPU session if possible
+
+Even with these issues, the retrieval step still works correctly, and missing facet scores do not invalidate the benchmark design.
+
+## Q3. Why does the notebook sometimes crash while running the pipeline?
+
+Notebook crashes are usually caused by resource constraints, especially when running large language models.
+
+Possible causes and fixes:
+
+### i) Running on CPU instead of GPU
+
+ * Mistral-7B is extremely slow and memory-intensive on CPU
+
+ * Switch the runtime to GPU (Google Colab -> Runtime -> Change runtime type -> GPU)
+
+### ii) Missing or unstable dependencies
+
+ * If the environment resets, required libraries may not be installed.
+
+ * Re-run: ```pip install chromadb bitsandbytes```
+
+ * After successful installation, these commands can be commented out again.
+
+### iii) GPU memory exhaustion
+
+ * Free-tier GPUs have limited VRAM.
+
+ * Using 4-bit quantization mitigates this, but crashes can still occur if memory spikes
+
+## Q4. Why are some quantitative facets (e.g., “Time outdoors/day”, “Caffeine intake”) assigned non-zero scores without explicit evidence?
+
+This benchmark intentionally tests model robustness under ambiguity.
+
+Some facets represent latent or inferred traits, not directly measurable facts. The model assigns scores based on semantic association, not literal measurement. 
+
+A score of 0 does not mean false, but rather insufficient evidence.
+
+Future versions of this benchmark can introduce:
+
+* A ```facet_applicable``` flag
+
+* Explicit separation between qualitative and quantitative facets
+
+## Q5. Does this affect the validity of the benchmark?
+
+No.
+
+The benchmark is designed to evaluate model behavior, consistency, and interpretability, not to produce perfect human-aligned labels.
+
+Sparse retrieval, ordinal scoring, and post-processing together ensure:
+
+* Scalability
+
+* Robustness
+
+* Production relevance
